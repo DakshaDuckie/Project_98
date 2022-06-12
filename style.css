@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 242, 199);
+}
+
+#start-btn{
+    width: 20%;
+} 
+
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+#photo_img{
+    width: 150px;
+}
